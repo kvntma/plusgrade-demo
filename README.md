@@ -9,7 +9,7 @@ Clone the repo into a folder of your choice.
 <!-- #default-branch-switch -->
 
 ```bash
-cd to the folder (example dev/folder/plusgrade
+cd to the folder (example dev/folder/plusgrade)
 ```
 
 Install it and run:
