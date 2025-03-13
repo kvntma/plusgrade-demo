@@ -22,7 +22,7 @@ npm run dev
 npm test (for testing suite)
 ```
 
-important: this uses a dockerized API given from plusgrade
+important: this uses a dockerized API given from plusgrade that needs to be run locally for the api endpoints to be hit
 
 ```bash
 docker pull ptsdocker16/interview-test-server
