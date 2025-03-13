@@ -1,14 +1,13 @@
-# Material UI - Vite.js in TypeScript example
+# Material UI - Vite.js in TypeScript for Mortgage Calculator App
 
 ## How to use
 
-Download the example [or clone the repo](https://github.com/mui/material-ui):
+Clone the repo into a folder of your choice.
 
 <!-- #default-branch-switch -->
 
 ```bash
-curl https://codeload.github.com/mui/material-ui/tar.gz/v6.x | tar -xz --strip=2 material-ui-6.x/examples/material-ui-vite-ts
-cd material-ui-vite-ts
+cd to the folder
 ```
 
 Install it and run:
@@ -18,13 +17,7 @@ npm install
 npm run dev
 ```
 
-or:
 
-<!-- #default-branch-switch -->
-
-[![Edit on StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/mui/material-ui/tree/v6.x/examples/material-ui-vite-ts)
-
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/sandbox/github/mui/material-ui/tree/v6.x/examples/material-ui-vite-ts)
 
 ## The idea behind the example
 
@@ -34,6 +27,3 @@ It includes `@mui/material` and its peer dependencies, including [Emotion](https
 ## What's next?
 
 <!-- #default-branch-switch -->
-
-You now have a working example project.
-You can head back to the documentation and continue by browsing the [templates](https://mui.com/material-ui/getting-started/templates/) section.
